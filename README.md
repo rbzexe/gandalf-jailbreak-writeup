@@ -7,7 +7,7 @@ Goal of each level: Extract a hidden password from an LLM that is explicitly ins
 
 Why I did this
 
-I'm transitioning from software engineering into AI red teaming. Gandalf is a hands-on way to practice real LLM jailbreak techniques — not theory, actual prompts against actual defenses, with the difficulty scaling level by level. Every prompt below is something I wrote and tested myself, refining each attempt based on how the model responded.
+Learning about more AI and  AI red teaming. Gandalf is a hands-on way to practice real LLM jailbreak techniques — not theory, actual prompts against actual defenses, with the difficulty scaling level by level. Every prompt below is something I wrote and tested myself, refining each attempt based on how the model responded.
 
 
 Level 1 — No Defense
